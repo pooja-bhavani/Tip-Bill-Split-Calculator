@@ -1,4 +1,6 @@
-# 💰 Tip & Bill Split Calculator
+# Tip & Bill Split Calculator
+
+
 
 A modern web application for calculating tips and splitting bills among multiple people. Built with Python Flask backend and a beautiful glassmorphism UI.
 
