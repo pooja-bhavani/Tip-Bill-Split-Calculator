@@ -308,19 +308,6 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 🎓 Learning Resources
-
-### For Users
-1. Read [QUICK_START.md](QUICK_START.md) for basic usage
-2. Check [WHATS_NEW.md](WHATS_NEW.md) for new features
-3. See [VISUALIZATIONS.md](VISUALIZATIONS.md) to understand charts
-
-### For Developers
-1. Review [FEATURES.md](FEATURES.md) for technical details
-2. Check `.kiro/specs/` for design specifications
-3. See `tests/` for testing examples
-4. Read [CHANGELOG.md](CHANGELOG.md) for version history
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
