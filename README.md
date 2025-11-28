@@ -38,6 +38,7 @@ A modern web application for calculating tips and splitting bills among multiple
 
 ### Prerequisites
 
+- Kiro
 - Python 3.13 or higher
 - pip (Python package manager)
 
