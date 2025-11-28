@@ -308,24 +308,6 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-### Adding Screenshots
-
-Screenshots are currently placeholders. To add real screenshots:
-1. Follow the instructions in `SCREENSHOT_GUIDE.md`
-2. Run the application locally
-3. Capture screenshots as described
-4. Save them in the `screenshots/` directory
-5. Push to GitHub
-
-## 📚 Documentation
-
-- **[QUICK_START.md](QUICK_START.md)** - Get started in 60 seconds
-- **[FEATURES.md](FEATURES.md)** - Detailed feature documentation
-- **[VISUALIZATIONS.md](VISUALIZATIONS.md)** - Complete visualization guide
-- **[WHATS_NEW.md](WHATS_NEW.md)** - What's new in v2.0
-- **[CHANGELOG.md](CHANGELOG.md)** - Version history
-- **[SCREENSHOT_GUIDE.md](SCREENSHOT_GUIDE.md)** - How to capture screenshots
-
 ## 🎓 Learning Resources
 
 ### For Users
