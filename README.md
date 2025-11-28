@@ -6,26 +6,6 @@ A modern web application for calculating tips and splitting bills among multiple
 ![Flask](https://img.shields.io/badge/Flask-3.0.0-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop View](screenshots/desktop-view.png)
-*Full desktop experience with all features visible*
-
-### Mobile View
-![Mobile View](screenshots/mobile-view.png)
-*Responsive single-column layout optimized for mobile*
-
-### Calculation Example
-![Calculation Example](screenshots/calculation-example.png)
-*Live calculation with animated results and charts*
-
-### Charts Visualization
-![Charts View](screenshots/charts-view.png)
-*Beautiful doughnut chart and bar chart with animations*
-
-> **Note:** Screenshots coming soon! See `SCREENSHOT_GUIDE.md` for instructions on capturing them.
-
 ## ✨ Features
 
 ### 🧮 Core Functionality
@@ -298,38 +278,10 @@ pytest tests/ --cov=app --cov-report=html
 - Touch-friendly buttons (48px minimum)
 - Numeric keyboard on mobile devices
 
-## 📊 Version Comparison
-
-| Feature | v1.0 | v2.0 (Current) |
-|---------|------|----------------|
-| Basic Calculations | ✅ | ✅ |
-| Pie/Doughnut Chart | Basic Pie | Modern Doughnut |
-| Bar Chart | Simple | Enhanced with Animation |
-| Progress Bars | ❌ | ✅ Animated |
-| Tip Guide | ❌ | ✅ Visual Guide |
-| Multi-Currency | ❌ | ✅ 6 Currencies |
-| History | ❌ | ✅ Last 10 |
-| Share Feature | ❌ | ✅ Copy to Clipboard |
-| Animations | Basic | Professional |
-| Mobile Optimized | ✅ | ✅ Enhanced |
-
-## 🌐 Browser Compatibility
-
-- ✅ Chrome 76+ (recommended)
-- ✅ Safari 9+
-- ✅ Firefox 103+
-- ✅ Edge 79+
-
 **Requirements:**
 - `backdrop-filter` for glassmorphism effects
 - `localStorage` for history persistence
 - Clipboard API for sharing (HTTPS or localhost)
-
-**Tested on:**
-- macOS (Safari, Chrome)
-- Windows (Chrome, Edge, Firefox)
-- iOS (Safari)
-- Android (Chrome)
 
 ## Development
 
@@ -432,7 +384,5 @@ If you find this project helpful, please consider:
 - 🔀 Contributing code
 
 ---
-
-**Made with ❤️ using Flask and Chart.js**
 
 *Version 2.0.0 - Enhanced with stunning visualizations and powerful features*
