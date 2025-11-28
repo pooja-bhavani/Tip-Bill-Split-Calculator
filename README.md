@@ -236,7 +236,10 @@ pytest tests/ --cov=app --cov-report=html
 │   └── test_validator.py       # Validator tests
 ├── app.py                      # Flask application entry point
 ├── requirements.txt            # Python dependencies
-└── README.md                   # This file
+├── FEATURES.md
+├── VISUALIZATIONS.md
+├── CHANGELOG.md
+└── README.md                  
 ```
 
 ## Usage
