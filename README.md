@@ -2,6 +2,10 @@
 
 <img width="2830" height="1766" alt="image" src="https://github.com/user-attachments/assets/84468adf-871b-46f1-ba1c-af5b745ba48f" />
 
+<img width="1470" height="956" alt="Screenshot 2025-11-29 at 11 42 43 AM" src="https://github.com/user-attachments/assets/18fd5669-5109-409d-9980-edd546cb37d2" />
+
+<img width="1470" height="956" alt="Screenshot 2025-11-29 at 11 50 10 AM" src="https://github.com/user-attachments/assets/bd68b83a-ac58-46c6-9c47-32efb2558558" />
+
 
 A modern web application for calculating tips and splitting bills among multiple people. Built with Python Flask backend and a beautiful glassmorphism UI.
 
